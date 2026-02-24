@@ -119,10 +119,7 @@ executor.execute()
 - No external dependencies for core functionality
 - Standard library only (threading, collections, concurrent.futures)
 
-## License
 
-MIT License
-
-## Author
+## Notes
 
 Built as a demonstration of advanced software engineering concepts including graph algorithms, concurrent programming, and system design.
